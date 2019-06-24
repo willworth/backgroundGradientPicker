@@ -1,0 +1,1 @@
+This colour picker is a simple DOM manipulation exercise.
